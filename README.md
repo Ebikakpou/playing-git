@@ -1,1 +1,1 @@
-echo "THIS IS THE LANDING  PAGE"
+echo "# Playing Git Project" >
